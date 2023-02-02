@@ -1,0 +1,168 @@
+body{
+    color:black;
+    background-color:white;
+    background-image:url(../assets/img/back.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    background-position: 10% 0%;
+}
+
+.Button-Register{
+    background-color: #a5131f;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 91%;
+    margin-right: auto;
+    text-align: center;
+    transition-duration: 0.4s;
+}
+.Button-Register:hover{
+    background-color: #8a0d18;
+    color: white;
+}
+
+
+
+.Types
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    color: rgb(248, 243, 243);
+    font-size: 35px;
+    font-weight: 700;
+    text-align: left;
+    transition-duration: 0.4s;
+    text-transform: uppercase;
+}
+
+.Title
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    color: rgb(248, 243, 243);
+    font-size: 90px;
+    font-weight: 700;
+    text-align: left;
+    transition-duration: 0.4s;
+}
+
+.Info
+{
+    display: flex;
+    justify-content: left;
+    margin-top: -2%;
+    margin-left: 4%;
+    color: rgb(248, 243, 243);
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    transition-duration: 0.4s;
+}
+
+.Description
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    color: rgb(248, 243, 243);
+    font-size: 15px;
+    font-weight: 400;
+    text-align: left;
+    transition-duration: 0.4s;
+}
+
+
+.btn-series
+{
+    background-color: #d41122;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    margin-left: 4%;
+    cursor: pointer;
+    text-align: center;
+    transition-duration: 0.4s;
+}
+.btn-series:hover{
+    background-color: #ad0b18;
+    color: white;
+}
+
+.btn-episodes
+{
+    background-color: black;
+    border: solid 1px white;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    margin-left: 2%;
+    cursor: pointer;
+    text-align: center;
+    transition-duration: 0.4s;
+    text-transform: uppercase;
+}
+
+.btn-episodes:hover{
+    background-color: #1a1a1a;
+    color: white;
+}
+
+
+.date
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    color: rgb(248, 243, 243);
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    transition-duration: 0.4s;
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1000px) {
+    body
+    {
+        background-size: cover;
+        background-position: 50% 0%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+    .Button-Register{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+}
+
+
+

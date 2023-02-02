@@ -1,0 +1,82 @@
+body{
+    color:black;
+    background-color:rgb(19, 16, 16);
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    background-size: 80%;
+    background-attachment:fixed;
+    transition-duration: 0.4s;
+}
+
+.date
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    color: rgb(248, 243, 243);
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    transition-duration: 0.4s;
+}
+
+.Title-Video
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    margin-top: 3%;
+    color: rgb(248, 243, 243);
+    font-size: 55px;
+    font-weight: 600;
+    text-align: left;
+    transition-duration: 0.4s;
+}
+
+.Type
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    color: rgb(248, 243, 243);
+    font-size: 35px;
+    font-weight: 700;
+    text-align: left;
+    transition-duration: 0.4s;
+    text-transform: uppercase;
+}
+
+.desc
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    margin-top: 1%;
+    color: rgb(206, 204, 204);
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    transition-duration: 0.4s;
+}
+
+.actor
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    margin-top: 1%;
+    color: rgb(206, 204, 204);
+    width: 50%;
+    transition-duration: 0.4s;
+    
+}
+
+.Image
+{
+    max-width: 70%;
+    margin-left: 15%;
+}
+ 
