@@ -1,0 +1,45 @@
+body
+{
+    color:black;
+    background-color:rgb(19, 16, 16);
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+    background-size: 80%;
+    background-attachment:fixed;
+    transition-duration: 0.4s;
+}
+
+.title
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    color: rgb(248, 243, 243);
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    transition-duration: 0.4s;
+}
+
+.episode{
+	height:  auto;
+	width: 100%;
+	max-width: 2000px;
+	min-width: 500px
+}
+
+.t
+{
+    display: flex;
+    justify-content: left;
+    margin-left: 4%;
+    margin-top: 3%;
+    color: rgb(248, 243, 243);
+    font-size: 55px;
+    font-weight: 600;
+    text-align: left;
+    transition-duration: 0.4s;
+}
