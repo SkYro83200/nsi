@@ -1,0 +1,4 @@
+Jour 1 : - Mise en place du html, css, js
+
+Jour 2 : - Création de la page principal, de films et détails films
+	
